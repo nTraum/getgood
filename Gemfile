@@ -37,4 +37,10 @@ gem "slim-rails"
 
 group :development do
   gem "quiet_assets"
+  gem "annotate"
+  gem "rails-footnotes"
+  gem "binding_of_caller"
+  gem "better_errors"
+  gem "pry-rails"
+
 end
